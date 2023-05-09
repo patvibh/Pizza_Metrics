@@ -1,4 +1,5 @@
 # Pizza_Metrics: A Data Analysis Case Study
+## Ref: [Case_Study_2 ](https://8weeksqlchallenge.com/case-study-2/)
 ## Description: 
 In this project, I have worked with the Pizza Runner database schema provided by Danny, the owner of Pizza Runner. The schema contains tables with data on customers, runners, orders, and pizzas. The goal of this project was to clean and analyze the data to help Danny optimize Pizza Runner's operations.
 
