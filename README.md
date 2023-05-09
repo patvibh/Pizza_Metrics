@@ -8,3 +8,4 @@ To accomplish this, I first familiarized myself with the entity relationship dia
 Finally, I provided recommendations to Danny based on my analysis to help him optimize his business operations and improve customer satisfaction. This project demonstrates how data analysis can be used to optimize business operations and improve decision-making.
 ## Database and Tools Used: 
 <ul><li>PostgreSQLv13</li></ul>
+![Schema_pizza_metrics](https://github.com/patvibh/Pizza_Metrics_SQL_Project/assets/117330268/32f94487-6275-4509-82a9-2f577dd236f3)
